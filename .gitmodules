@@ -7,3 +7,6 @@
 [submodule "react-native"]
 	path = react-native
 	url = https://github.com/potentialInc/claude-react-native.git
+[submodule "react"]
+	path = react
+	url = https://github.com/potentialInc/claude-react.git
